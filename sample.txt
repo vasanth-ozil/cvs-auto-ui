@@ -1,1 +1,3 @@
-Hi this is sample for github
+Hi this is sample for github..
+
+Editing this file for second commit
